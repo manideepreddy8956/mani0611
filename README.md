@@ -64,5 +64,5 @@
 
 ---
 <p align="center">
-  <i>Made with ❤️ by Manideep Reddy. Inspired by Amar's profile design.</i>
+  <i>Made with ❤️ by Manideep Reddy.</i>
 </p>
