@@ -7,18 +7,16 @@
 <p align="center">
   <a href="https://github.com/manideepreddy8956"><img alt="GitHub followers" src="https://img.shields.io/github/followers/manideepreddy8956?label=Follow&style=for-the-badge"></a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=manideepreddy8956.manideepreddy8956"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=manideepreddy8956.manideepreddy8956&style=for-the-badge"></a>
-  <a href="mailto:manideep0611@gmail.com.com"><img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/manideepreddy8956/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech Student** — Computer Science & Engineering
-- 💼 **Interests:** Data Analytics, Machine Learning, Web Development
-- 📍 **Location:** India
-- 🌱 **Currently learning:** Python, Power BI, SQL
-- 🤝 **Open to:** internships | freelance | collaborations | open source
+- 🎓 **B.Tech Student** — Computer Science & Engineering  
+- 💼 **Interests:** Data Analytics, Machine Learning, Web Development  
+- 📍 **Location:** India  
+- 🌱 **Currently learning:** Python, Power BI, SQL  
+- 🤝 **Open to:** internships | freelance | collaborations | open source  
 
 > Quick pitch: *Turning raw data into meaningful insights to drive better decisions.*
 
@@ -57,14 +55,14 @@
 
 ---
 
-## 🧩 Notable Work & Achievements
-- 🏅 Completed Data Analytics Projects
-- 📄 Published GitHub Repositories
-- 🗣️ Presented Technical Talks
-- 🧑‍🤝‍🧑 Contributed to Open Source
+## 🤝 Let’s Connect
+<p align="center">
+  <a href="mailto:manideep0611@gmail.com.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/manideepreddy8956/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/manideepreddy8956"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
 
 ---
-
-## 🤝 Let’s Connect
-- ✉️ **Email:** manideep0611@gmail.com
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/manideepreddy8956/
+<p align="center">
+  <i>Made with ❤️ by Manideep Reddy. Inspired by Amar's profile design.</i>
+</p>
