@@ -58,7 +58,7 @@
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="mailto:manideep0611@gmail.com.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.linkedin.com/in/manideepreddy8956/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/bommana-manideep-reddy-a51927279 "><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/manideepreddy8956"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
