@@ -1,6 +1,6 @@
 <!-- Professional Header -->
 <h1 align="center">Hi, I'm <span style="color:#4CAF50">Manideep Reddy</span> 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Problem Solver | Lifelong Learner</h3>
+<h3 align="center">Aspiring Data Scientist | Problem Solver | Lifelong Learner | SAP Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=800&color=00C7FF&center=true&vCenter=true&width=650&lines=Data+Driven+Mindset;Transforming+Data+into+Insights;Passionate+about+Analytics+%26+ML;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
