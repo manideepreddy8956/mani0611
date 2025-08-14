@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 **B.Tech Student** — Computer Science & Engineering  
-- 💼 **Interests:** Data Analytics, Machine Learning, Web Development  
+- 💼 **Interests:** Data Science, Machine Learning, Deep Learning   
 - 📍 **Location:** India  
 - 🌱 **Currently learning:** Python, Power BI, SQL  
 - 🤝 **Open to:** Internships, Freelance, Collaborations, Open Source  
