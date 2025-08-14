@@ -24,7 +24,7 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,postgres,mysql,sqlite,git,github,linux,html,css,js,react,bootstrap,figma&perline=12"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,mysql,github,linux,&perline=12"/>
 </p>
 
 ---
